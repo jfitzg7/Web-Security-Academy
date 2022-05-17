@@ -1,3 +1,3 @@
-## Web Security Academy Scripts
+## Scripts for PortSwigger's Web Security Academy
 
-Scripts for solving Portswigger labs, especially ones that require Burp Intruder or other features that are limited or excluded in the community edition.
+The scripts are primarily for labs that require Burp Intruder or other features that are limited or excluded in the community edition.
